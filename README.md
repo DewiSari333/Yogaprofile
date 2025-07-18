@@ -18,3 +18,7 @@ BSEE Electrical Engineering, Santa Clara University, 1996
 
 ### Publications
 [Beating the heat (CMOS hot-carrier reliability), D.S. Sugiharto, C.Y. Yang, H. Le and J.E. Chung, IEEE Circuits and Devices Magazine, vol. 14, no. 5, pp. 43-51, Sept. 1998](https://ieeexplore.ieee.org/document/721519)
+
+
+### Hobbies/Activities/Travel
+[Kapal Selam Dive Club](https://kapalselam.org/divers/dewi)
